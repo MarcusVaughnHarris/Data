@@ -1,0 +1,11 @@
+Biomass_precursor,smiles,Source
+phytol,CC(C)CCCC(C)CCCC(C)CCC\C(C)=C\CO,Research
+isophytol,CC(C)CCCC(C)CCCC(C)CCCC(C)(O)C=C,Research
+C18:1,CCCCCCCC\C=C/CCCCCCCC(=O)OC,Research
+C18:2,CCCCC\C=C/C\C=C/CCCCCCCC(=O)OC,Research
+C8:0,CCCCCCCC(=O)OC,Research
+C10:0,CCCCCCCCCC(=O)OC,Research
+Palythinol,COC1=C(CC(O)(CO)CC1=NCC(O)=O)NC(C)CO,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S1532045606001530
+Lauric acid,CCCCCCCCCCCC(O)=O,https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12799
+Oleic acid,CCCCCCCC\C=C/CCCCCCCC(O)=O,https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12800
+Linoleic acid,CCCCC\C=C/C\C=C/CCCCCCCC(O)=O,https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12801
