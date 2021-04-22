@@ -6,3 +6,6 @@ Methyl decanoate (C10:0),CCCCCCCCCC(=O)OC,Research
 Methyl laurate,CCCCCCCCCCCC(=O)OC,https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12799
 Methyl oleate,CCCCCCCC\C=C/CCCCCCCC(=O)OC,https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12800
 Methyl linoleate,CCCCC\C=C/C\C=C/CCCCCCCC(=O)OC,https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12801
+Test_highcmc1, CCCC(=O)OC
+Test_highcmc2, CCC(=O)OC
+Test_highcmc3,COC(C)=O
