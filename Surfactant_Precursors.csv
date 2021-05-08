@@ -1,9 +1,0 @@
-Biomass_precursor,smiles,Source
-Phytol,CC(C)CCCC(C)CCCC(C)CCC\C(C)=C\CO,Research
-Isophytol,CC(C)CCCC(C)CCCC(C)CCCC(C)(O)C=C,Research
-Methyl octanoate (C8:0),CCCCCCCC(=O)OC,Research
-Methyl decanoate (C10:0),CCCCCCCCCC(=O)OC,Research
-Methyl laurate,CCCCCCCCCCCC(=O)OC,https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12799
-Methyl oleate,CCCCCCCC\C=C/CCCCCCCC(=O)OC,https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12800
-Propanoic acid, CC(=O)OC, outlier_mol_1
-prenol, CC(C)=CCO, outlier_mol_2
