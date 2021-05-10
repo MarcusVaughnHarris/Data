@@ -1,0 +1,25 @@
+smiles,FG,set
+CC=C,alkene,precursors
+OC\C=C\C=C,diene-OH,precursors
+COC(C)=O,methyl ester,precursors
+CCOC(=O)CC,ethyl ester,precursors
+CCCC(=O)OC1=CC=CC=C1,phenyl ester,precursors
+CC(C)(C)OC(=O)CCC=C,t-butyl ester-alkene,precursors
+CC1CO1,epoxide,precursors
+CC1OC1CC1CO1,bis-epoxide,precursors
+CC1COC(=O)O1,cc5,precursors
+CC1OC(=O)OC1CC1COC(=O)O1,bis-cc5,precursors
+COC(=O)CCCO,methyl ester- OH,precursors
+OC1=CC=CC=C1,phenol,reactant - N
+CCCCOC,ether,reactant - N
+CO,alcohol,reactant - N
+[H]O[H],water,reactant - N
+CCCCNC,secondary amine,reactant - N
+CCCCN(C)C,tertiary amine,reactant - N
+CCCN,primary amine,reactant - N
+C1OC1C1CO1,bis-epoxide,reactant - E
+OC(=O)CC1CO1,COOH - epoxide,reactant - E
+COC(=O)CC1CO1,ester - epoxide,reactant - E
+COC(=O)C(CCCC1CO1)CCCC1COC(=O)O1,ester - epoxide - cc5,reactant - E
+CC(=O)OCC1COC(=O)O1,ester - cc5,reactant - E
+CC(=O)OCC1CO1,ester - epoxide,reactant - E
